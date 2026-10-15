@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T20:00:44.415Z",
+  "updated_at": "2026-10-15T20:00:58.758Z",
   "courses": [
     {
       "id": "course-1",
@@ -68,6 +68,18 @@
           "definition": "es el mercado de la blockshei"
         }
       ]
+    },
+    {
+      "id": "course-3",
+      "title": "Diseño UX/UI para Plataformas Fintech & Web3",
+      "slug": "ux-ui-fintech-web3",
+      "category": "TECH_UX",
+      "description": "Construye interfaces digitales que transmitan confianza, solidez y alta usabilidad.",
+      "price": 0,
+      "is_included_in_lifetime": true,
+      "thumbnail_url": "logo.png",
+      "is_published": true,
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     }
   ],
   "glossary": [
