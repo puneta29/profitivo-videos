@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T19:38:22.644Z",
+  "updated_at": "2026-10-15T19:38:24.172Z",
   "courses": [
     {
       "id": "course-1",
@@ -149,7 +149,8 @@
       "course-4"
     ],
     "d9a1a339-c060-45f2-9890-68dbf98ffbd8": [
-      "course-4"
+      "course-4",
+      "course-1792090281069"
     ],
     "admin-owner-1": [
       "course-3"
