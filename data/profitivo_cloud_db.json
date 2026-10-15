@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T21:35:36.708Z",
+  "updated_at": "2026-10-15T21:35:46.778Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -66,10 +66,6 @@
     {
       "id": "TECH_UX",
       "name": "Tecnologias"
-    },
-    {
-      "id": "PSYCHOLOGY",
-      "name": "Psicología de Mercado"
     }
   ],
   "user_access_map": {
