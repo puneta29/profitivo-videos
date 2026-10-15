@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T19:35:58.763Z",
+  "updated_at": "2026-10-15T19:36:23.029Z",
   "courses": [
     {
       "id": "course-1",
@@ -120,7 +120,7 @@
     },
     {
       "id": "TECH_UX",
-      "name": "Tecnología UX/UI"
+      "name": "Tecnologias"
     },
     {
       "id": "PSYCHOLOGY",
