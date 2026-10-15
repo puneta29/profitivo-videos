@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T20:53:39.065Z",
+  "updated_at": "2026-10-15T20:53:51.332Z",
   "courses": [
     {
       "id": "course-1",
@@ -36,7 +36,7 @@
       "slug": "scalping-avanzado-futuros",
       "category": "TRADING",
       "description": "Curso Especializado de alta rentabilidad con gestión de riesgo institucional. Requiere desbloqueo.",
-      "price": 50,
+      "price": 20,
       "is_included_in_lifetime": false,
       "thumbnail_url": "logo.png",
       "is_published": true,
@@ -169,6 +169,6 @@
   "settings": {
     "membership_price": 10,
     "currency": "USDT",
-    "updated_at": "2026-10-15T20:53:39.065Z"
+    "updated_at": "2026-10-15T20:53:51.332Z"
   }
 }
