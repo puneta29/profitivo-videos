@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T19:00:14.829Z",
+  "updated_at": "2026-10-15T19:01:31.965Z",
   "courses": [
     {
       "id": "course-1",
@@ -95,6 +95,10 @@
       "name": "Psicología de Mercado"
     }
   ],
-  "user_access_map": {},
+  "user_access_map": {
+    "556ded88-acf0-42a9-84f3-0b622c0006e0": [
+      "course-4"
+    ]
+  },
   "orders": []
 }
