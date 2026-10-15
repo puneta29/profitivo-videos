@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T20:52:12.147Z",
+  "updated_at": "2026-10-15T20:53:35.257Z",
   "courses": [
     {
       "id": "course-1",
@@ -167,7 +167,8 @@
   },
   "orders": [],
   "settings": {
-    "membership_price": 50,
-    "currency": "USDT"
+    "membership_price": 10,
+    "currency": "USDT",
+    "updated_at": "2026-10-15T20:53:35.257Z"
   }
 }
