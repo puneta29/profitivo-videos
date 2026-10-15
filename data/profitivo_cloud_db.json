@@ -1,21 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T21:34:39.510Z",
+  "updated_at": "2026-10-15T21:35:18.091Z",
   "courses": [
-    {
-      "id": "course-1",
-      "title": "Fundamentos de Criptoeconomía y Blockchain",
-      "slug": "fundamentos-criptoeconomia",
-      "category": "CRYPTO",
-      "description": "Domina los conceptos de Bitcoin, Ethereum, smart contracts y seguridad sin rodeos.",
-      "price": 0,
-      "is_included_in_lifetime": true,
-      "thumbnail_url": "logo.png",
-      "is_published": true,
-      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "created_by": "puñe",
-      "created_at": "2026-10-15T01:35:13.833Z"
-    },
     {
       "id": "course-2",
       "title": "Análisis Técnico y Lectura de Velas Japonesas",
@@ -91,18 +77,6 @@
     }
   ],
   "glossary": [
-    {
-      "id": "g-1",
-      "course_id": "course-1",
-      "term": "Blockchain",
-      "definition": "Libro contable inmutable y descentralizado distribuido en miles de nodos."
-    },
-    {
-      "id": "g-2",
-      "course_id": "course-1",
-      "term": "Smart Contract",
-      "definition": "Programa informático que se autoejecuta en la blockchain cuando se cumplen las condiciones acordadas."
-    },
     {
       "id": "g-3",
       "course_id": "course-2",
