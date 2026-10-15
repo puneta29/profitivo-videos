@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T19:01:31.965Z",
+  "updated_at": "2026-10-15T19:07:46.045Z",
   "courses": [
     {
       "id": "course-1",
-      "title": "Fundamentos de Criptoeconomía y Blockchain",
+      "title": "Fundamentos de CriptoeconomÃ­a y Blockchain",
       "slug": "fundamentos-criptoeconomia",
       "category": "CRYPTO",
       "description": "Domina los conceptos de Bitcoin, Ethereum, smart contracts y seguridad sin rodeos.",
@@ -16,10 +16,10 @@
     },
     {
       "id": "course-2",
-      "title": "Análisis Técnico y Lectura de Velas Japonesas",
+      "title": "AnÃ¡lisis TÃ©cnico y Lectura de Velas Japonesas",
       "slug": "analisis-tecnico-velas",
       "category": "TRADING",
-      "description": "Identifica tendencias alcistas, soportes y resistencias con precisión quirúrgica.",
+      "description": "Identifica tendencias alcistas, soportes y resistencias con precisiÃ³n quirÃºrgica.",
       "price": 0,
       "is_included_in_lifetime": true,
       "thumbnail_url": "logo.png",
@@ -28,7 +28,7 @@
     },
     {
       "id": "course-3",
-      "title": "Diseño UX/UI para Plataformas Fintech & Web3",
+      "title": "DiseÃ±o UX/UI para Plataformas Fintech & Web3",
       "slug": "ux-ui-fintech-web3",
       "category": "TECH_UX",
       "description": "Construye interfaces digitales que transmitan confianza, solidez y alta usabilidad.",
@@ -43,7 +43,7 @@
       "title": "Estrategias Avanzadas de Scalping y Futuros",
       "slug": "scalping-avanzado-futuros",
       "category": "TRADING",
-      "description": "Curso Especializado de alta rentabilidad con gestión de riesgo institucional. Requiere desbloqueo.",
+      "description": "Curso Especializado de alta rentabilidad con gestiÃ³n de riesgo institucional. Requiere desbloqueo.",
       "price": 50,
       "is_included_in_lifetime": false,
       "thumbnail_url": "logo.png",
@@ -62,7 +62,7 @@
       "id": "g-2",
       "course_id": "course-1",
       "term": "Smart Contract",
-      "definition": "Programa informático que se autoejecuta en la blockchain cuando se cumplen las condiciones acordadas."
+      "definition": "Programa informÃ¡tico que se autoejecuta en la blockchain cuando se cumplen las condiciones acordadas."
     },
     {
       "id": "g-3",
@@ -74,7 +74,7 @@
       "id": "g-4",
       "course_id": "course-2",
       "term": "Soporte",
-      "definition": "Nivel de precio en el gráfico donde la demanda es lo suficientemente fuerte como para frenar una caída."
+      "definition": "Nivel de precio en el grÃ¡fico donde la demanda es lo suficientemente fuerte como para frenar una caÃ­da."
     }
   ],
   "categories": [
@@ -88,15 +88,18 @@
     },
     {
       "id": "TECH_UX",
-      "name": "Tecnología UX/UI"
+      "name": "TecnologÃ­a UX/UI"
     },
     {
       "id": "PSYCHOLOGY",
-      "name": "Psicología de Mercado"
+      "name": "PsicologÃ­a de Mercado"
     }
   ],
   "user_access_map": {
     "556ded88-acf0-42a9-84f3-0b622c0006e0": [
+      "course-4"
+    ],
+    "d9a1a339-c060-45f2-9890-68dbf98ffbd8": [
       "course-4"
     ]
   },
