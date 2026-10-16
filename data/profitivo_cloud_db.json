@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T19:04:50.203Z",
+  "updated_at": "2026-10-16T19:05:06.316Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -94,7 +94,11 @@
       "name": "Tecnologias"
     }
   ],
-  "user_access_map": {},
+  "user_access_map": {
+    "f61edca4-85a1-43c9-bd09-256ac8572e62": [
+      "course-1792100333983"
+    ]
+  },
   "orders": [],
   "settings": {
     "membership_price": 10,
