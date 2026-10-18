@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T03:33:03.782Z",
+  "updated_at": "2026-10-18T03:49:16.112Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -79,35 +79,6 @@
           "definition": "que es trading"
         }
       ]
-    },
-    {
-      "id": "course-1792294381887",
-      "title": "Prueba",
-      "slug": "prueba",
-      "category": "TRADING",
-      "description": "Esto es una prueba espero te guste",
-      "price": 0,
-      "is_included_in_lifetime": true,
-      "thumbnail_url": "logo.png",
-      "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792025724906__Qu__son_las_transacciones_P2P_.mp4",
-      "main_video_title": "Video de Bienvenida",
-      "extra_videos": [
-        {
-          "id": "extra-vid-1",
-          "title": "Lección 1 videin",
-          "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792090283474_snaptik_7696257081610898696_v3.mp4"
-        },
-        {
-          "id": "extra-vid-2",
-          "title": "Leccion2 changa",
-          "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792093028563_snaptik_7696257081610898696_v3.mp4"
-        }
-      ],
-      "document_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792294382263_planilla_tarjeta_PUNCANA.pdf",
-      "document_name": "Planilla curso",
-      "is_published": true,
-      "created_by": "puñe",
-      "created_at": "2026-10-18T03:33:03.438Z"
     }
   ],
   "glossary": [
