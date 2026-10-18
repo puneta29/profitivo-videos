@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T02:52:29.148Z",
+  "updated_at": "2026-10-18T02:56:36.436Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -113,6 +113,10 @@
     {
       "id": "TECH_UX",
       "name": "Tecnologias"
+    },
+    {
+      "id": "PRUEBA_CATEGORIA",
+      "name": "Prueba categoría"
     }
   ],
   "user_access_map": {
