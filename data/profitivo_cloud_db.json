@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T02:31:08.367Z",
+  "updated_at": "2026-10-18T02:34:53.933Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -256,6 +256,16 @@
       "network": "",
       "account_holder": "",
       "instructions": "Paga",
+      "qr_image_url": "logo.png",
+      "is_active": true
+    },
+    {
+      "id": "pm-1792290892250",
+      "title": "Pago movi",
+      "method_type": "OTHER",
+      "currency": "Bolivares",
+      "account_identifier": "04127678181",
+      "instructions": "Prueba esto",
       "qr_image_url": "logo.png",
       "is_active": true
     }
