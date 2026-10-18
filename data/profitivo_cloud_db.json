@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T02:56:36.436Z",
+  "updated_at": "2026-10-18T02:57:30.880Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -295,6 +295,15 @@
     }
   ],
   "news": [
+    {
+      "id": "news-1792292250628",
+      "title": "Noticia prueba",
+      "category_id": "PRUEBA_CATEGORIA",
+      "category_name": "Prueba categoría",
+      "description": "Esto es una prueba perro",
+      "url": "https://looneytunes.fandom.com/es/wiki/Elvira_Duff",
+      "created_at": "2026-10-18T02:57:30.629Z"
+    },
     {
       "id": "news-1",
       "title": "Adopción Institucional de Bitcoin y Ciclos de Halving",
