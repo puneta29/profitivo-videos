@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T02:42:01.249Z",
+  "updated_at": "2026-10-18T02:52:29.148Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -288,18 +288,35 @@
       "instructions": "Prueba esto",
       "qr_image_url": "logo.png",
       "is_active": true
+    }
+  ],
+  "news": [
+    {
+      "id": "news-1",
+      "title": "Adopción Institucional de Bitcoin y Ciclos de Halving",
+      "category_id": "CRYPTO",
+      "category_name": "Criptomonedas & Web3",
+      "description": "Análisis de la liquidez global en activos digitales y cómo los nuevos fondos cotizados impulsan la demanda estructural.",
+      "url": "https://coinmarketcap.com/es/alexandria/article/what-is-a-bitcoin-halving",
+      "created_at": "2026-10-13T10:00:00.000Z"
     },
     {
-      "id": "pm-test-1",
-      "title": "Zelle Test",
-      "method_type": "BANK_TRANSFER",
-      "currency": "USD",
-      "account_identifier": "test@profitivo.com",
-      "network": "",
-      "account_holder": "",
-      "instructions": "Enviar por Zelle",
-      "qr_image_url": "logo.png",
-      "is_active": true
+      "id": "news-2",
+      "title": "Gestión de Riesgo: La Clave para Sobrevivir en Futuros",
+      "category_id": "TRADING",
+      "category_name": "Trading & Finanzas",
+      "description": "Cómo calcular el tamaño de posición adecuado (1-2% por operación) para evitar liquidaciones innecesarias en alta volatilidad.",
+      "url": "https://academy.binance.com/es/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners",
+      "created_at": "2026-10-12T10:00:00.000Z"
+    },
+    {
+      "id": "news-3",
+      "title": "Diseño de Terminales Financieras y Psicología Visual",
+      "category_id": "TECH_UX",
+      "category_name": "Tecnología UX/UI",
+      "description": "La importancia de paletas oscuras de alto contraste para minimizar el estrés cognitivo del operador frente a los monitores.",
+      "url": "https://www.tradingview.com/chart/",
+      "created_at": "2026-10-10T10:00:00.000Z"
     }
   ]
 }
