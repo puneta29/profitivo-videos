@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T02:37:22.331Z",
+  "updated_at": "2026-10-18T02:37:25.815Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -140,7 +140,7 @@
       "status": "APPROVED",
       "created_at": "2026-10-18T02:36:44.208Z",
       "reviewed_by": "puñe",
-      "reviewed_at": "2026-10-18T02:37:22.331Z"
+      "reviewed_at": "2026-10-18T02:37:25.815Z"
     },
     {
       "id": "ord-1792179312729",
