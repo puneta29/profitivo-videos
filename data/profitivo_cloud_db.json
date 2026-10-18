@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T06:20:02.965Z",
+  "updated_at": "2026-10-18T06:20:08.089Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -173,7 +173,8 @@
   "user_access_map": {
     "f61edca4-85a1-43c9-bd09-256ac8572e62": [],
     "ce7486b6-ff4f-456f-8d8d-e63afc9067cf": [
-      "course-1792100333983"
+      "course-1792100333983",
+      "course-1792090281069"
     ],
     "5f124157-a4f4-4da6-a015-277facd8f2de": []
   },
