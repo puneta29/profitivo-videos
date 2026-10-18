@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T06:20:17.746Z",
+  "updated_at": "2026-10-18T06:21:57.679Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -83,35 +83,6 @@
           "definition": "que es trading"
         }
       ]
-    },
-    {
-      "id": "course-1792295495383",
-      "title": "Curso mortal kobat",
-      "slug": "curso-mortal-kobat",
-      "category": "PRUEBA_CATEGORIA",
-      "description": "Esto es mortal Kombat",
-      "price": 0,
-      "is_included_in_lifetime": true,
-      "thumbnail_url": "logo.png",
-      "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792295495991_366574.mp4",
-      "main_video_title": "Video de Bienvenida",
-      "extra_videos": [
-        {
-          "id": "extra-vid-1",
-          "title": "Gere over hear",
-          "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792295498668_366492.mp4"
-        },
-        {
-          "id": "extra-vid-2",
-          "title": "Baile changa",
-          "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792295500713_362339.mp4"
-        }
-      ],
-      "document_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792295497303_CamScanner_30-09-2026_23.13.pdf",
-      "document_name": "Material de Apoyo (PDF / PPT)",
-      "is_published": true,
-      "created_by": "puñe",
-      "created_at": "2026-10-18T03:51:42.475Z"
     },
     {
       "id": "course-1792296828110",
