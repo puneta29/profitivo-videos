@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T02:57:30.880Z",
+  "updated_at": "2026-10-18T02:58:08.394Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -290,6 +290,18 @@
       "currency": "Bolivares",
       "account_identifier": "04127678181",
       "instructions": "Prueba esto",
+      "qr_image_url": "logo.png",
+      "is_active": true
+    },
+    {
+      "id": "pm-1792292288094",
+      "title": "Otra prueba pago",
+      "method_type": "PAGO_MOVIL",
+      "currency": "Prueba bol",
+      "account_identifier": "Número telefono",
+      "network": "",
+      "account_holder": "",
+      "instructions": "Esto es prueba de instrucciones",
       "qr_image_url": "logo.png",
       "is_active": true
     }
