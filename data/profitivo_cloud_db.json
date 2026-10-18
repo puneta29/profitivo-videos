@@ -89,18 +89,18 @@
       "price": 0,
       "is_included_in_lifetime": true,
       "thumbnail_url": "logo.png",
-      "video_url": "blob:https://profitivo.pages.dev/4f1f0e76-5e2c-422c-8bb8-487234ede19c",
+      "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792025724906__Qu__son_las_transacciones_P2P_.mp4",
       "main_video_title": "Video de Bienvenida",
       "extra_videos": [
         {
           "id": "extra-vid-1",
           "title": "Lección 1 videin",
-          "video_url": "blob:https://profitivo.pages.dev/f762fe18-e656-4215-a630-1afe47548e9a"
+          "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792090283474_snaptik_7696257081610898696_v3.mp4"
         },
         {
           "id": "extra-vid-2",
           "title": "Leccion2 changa",
-          "video_url": "blob:https://profitivo.pages.dev/0eeccfc0-8bc4-4e0b-a5f4-f8e545847ab9"
+          "video_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792093028563_snaptik_7696257081610898696_v3.mp4"
         }
       ],
       "document_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792294382263_planilla_tarjeta_PUNCANA.pdf",
