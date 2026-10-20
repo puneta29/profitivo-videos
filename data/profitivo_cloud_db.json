@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T23:50:32.661Z",
+  "updated_at": "2026-10-20T23:50:37.022Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -289,18 +289,6 @@
       "network": "Banesco / Pago Móvil",
       "title": "Transferencia Bancaria / Pago Móvil",
       "qr_image_url": "logo.png"
-    },
-    {
-      "id": "pm-1792290668081",
-      "title": "Prueba pago",
-      "method_type": "PAGO_MOVIL",
-      "currency": "Boliavres",
-      "account_identifier": "02122678229",
-      "network": "",
-      "account_holder": "",
-      "instructions": "Paga",
-      "qr_image_url": "logo.png",
-      "is_active": true
     }
   ],
   "news": [
