@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T23:50:37.022Z",
+  "updated_at": "2026-10-20T23:51:18.196Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -289,6 +289,18 @@
       "network": "Banesco / Pago Móvil",
       "title": "Transferencia Bancaria / Pago Móvil",
       "qr_image_url": "logo.png"
+    },
+    {
+      "id": "pm-1792540278732",
+      "title": "banesco pru",
+      "method_type": "PAGO_MOVIL",
+      "currency": "VES",
+      "account_identifier": "04241458190-0134-",
+      "network": "",
+      "account_holder": "",
+      "instructions": "",
+      "qr_image_url": "logo.png",
+      "is_active": true
     }
   ],
   "news": [
