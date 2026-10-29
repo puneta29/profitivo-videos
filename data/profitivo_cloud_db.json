@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T17:17:12.903Z",
+  "updated_at": "2026-10-29T19:25:06.615Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -213,12 +213,12 @@
     {
       "method_type": "BINANCE_PAY",
       "id": "pm-2",
-      "account_identifier": "77441199",
-      "account_holder": "Profitivo Academy",
-      "instructions": "Envía vía Binance Pay usando el ID indicado. Libre de comisiones de red.",
+      "account_identifier": "20111283",
+      "account_holder": "",
+      "instructions": "Envía vía Binance Pay usando el ID indicado. Libre de comisiones de red.\n\nNota: Colocar en Nota al beneficiario Nombre Apellido y Numero de Cedula.",
       "is_active": true,
       "currency": "USDT",
-      "network": "Binance Internal Pay",
+      "network": "",
       "title": "Binance Pay (ID Directo)",
       "qr_image_url": "logo.png"
     },
