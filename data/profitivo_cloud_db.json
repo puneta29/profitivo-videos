@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T19:25:06.615Z",
+  "updated_at": "2026-10-29T19:25:13.385Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -198,18 +198,6 @@
     "87bb3ed2-57cf-42d4-ba28-1bbeb9fa46db"
   ],
   "payment_methods": [
-    {
-      "method_type": "CRYPTO",
-      "id": "pm-1",
-      "account_identifier": "TXZprofitivo99TRC20OfficialWalletAddress",
-      "account_holder": "Profitivo Global Treasury",
-      "instructions": "Envía el importe exacto mediante red TRC20 y adjunta el comprobante con el Hash de transacción (TxID).",
-      "is_active": true,
-      "currency": "USDT",
-      "network": "TRC-20 (Tron)",
-      "title": "Tether USDT (Red TRC-20)",
-      "qr_image_url": "logo.png"
-    },
     {
       "method_type": "BINANCE_PAY",
       "id": "pm-2",
