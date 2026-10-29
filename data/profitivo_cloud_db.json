@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T19:32:21.513Z",
+  "updated_at": "2026-10-29T19:34:04.005Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -230,7 +230,7 @@
       "account_identifier": "BNC 0191-0220-32-2100043484 / V-19.163.648",
       "network": "",
       "account_holder": "",
-      "instructions": "Enviar comprobante de pago, colocar en descripcionde pago Su numero de cedula.",
+      "instructions": "Enviar comprobante de pago, colocar en descripcion de pago Su numero de cedula.",
       "qr_image_url": "logo.png",
       "is_active": true
     }
