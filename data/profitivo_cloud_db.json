@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T19:46:03.390Z",
+  "updated_at": "2026-10-29T19:46:48.565Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -47,32 +47,6 @@
       ],
       "document_url": "https://github.com/puneta29/profitivo-videos/releases/download/v1.0-media/1792688418159_Guia_Basica_P2P_Venezuela_Profitivo_PDF.pdf",
       "document_name": "Material de Apoyo (PDF / PPT)"
-    },
-    {
-      "id": "course-1792100333983",
-      "title": "P2P",
-      "slug": "p2p",
-      "category": "CRYPTO",
-      "description": "explicacion de que es el p2p",
-      "price": 10,
-      "is_included_in_lifetime": false,
-      "thumbnail_url": "logo.png",
-      "video_url": "https://www.youtube.com/shorts/bHKz2U3hubo?feature=share",
-      "is_published": true,
-      "created_by": "admin2",
-      "created_at": "2026-10-16T19:06:25.774Z",
-      "glossary_terms": [
-        {
-          "id": "",
-          "term": "WALLET",
-          "definition": "monedero para lkas criptos"
-        },
-        {
-          "id": "",
-          "term": "BAJA",
-          "definition": "perdida de billete"
-        }
-      ]
     },
     {
       "id": "course-1792178155570",
@@ -137,7 +111,6 @@
   "user_access_map": {
     "f61edca4-85a1-43c9-bd09-256ac8572e62": [],
     "ce7486b6-ff4f-456f-8d8d-e63afc9067cf": [
-      "course-1792100333983",
       "course-1792090281069"
     ]
   },
