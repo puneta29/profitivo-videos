@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T19:28:42.350Z",
+  "updated_at": "2026-10-29T19:32:21.513Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -224,13 +224,13 @@
     },
     {
       "id": "pm-1792540278732",
-      "title": "banesco pru",
-      "method_type": "PAGO_MOVIL",
+      "title": "Transferencia Bancaria",
+      "method_type": "BANK_TRANSFER",
       "currency": "VES",
-      "account_identifier": "04241458190-0134-",
+      "account_identifier": "BNC 0191-0220-32-2100043484 / V-19.163.648",
       "network": "",
       "account_holder": "",
-      "instructions": "",
+      "instructions": "Enviar comprobante de pago, colocar en descripcionde pago Su numero de cedula.",
       "qr_image_url": "logo.png",
       "is_active": true
     }
