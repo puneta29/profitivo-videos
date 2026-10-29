@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T19:25:13.385Z",
+  "updated_at": "2026-10-29T19:28:42.350Z",
   "courses": [
     {
       "id": "course-1792090281069",
@@ -211,15 +211,15 @@
       "qr_image_url": "logo.png"
     },
     {
-      "method_type": "BANK_TRANSFER",
+      "method_type": "PAGO_MOVIL",
       "id": "pm-3",
-      "account_identifier": "0102-0000-00-0000000000",
-      "account_holder": "Profitivo Soluciones C.A.",
-      "instructions": "Realiza el pago móvil o transferencia y sube la captura de pantalla con la referencia visible.",
+      "account_identifier": "0424-1459190 / 0191 (BNC) / V-19.163.648",
+      "account_holder": "",
+      "instructions": "Realiza el pago móvil o transferencia y sube la captura de pantalla con la referencia visible. \n\nNota: En concepto de pago colocar numero de cedula.",
       "is_active": true,
-      "currency": "USD / Moneda Local",
-      "network": "Banesco / Pago Móvil",
-      "title": "Transferencia Bancaria / Pago Móvil",
+      "currency": "VES",
+      "network": "",
+      "title": "Pago Móvil",
       "qr_image_url": "logo.png"
     },
     {
